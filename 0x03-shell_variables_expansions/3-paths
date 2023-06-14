@@ -1,2 +1,2 @@
 #!/bin/bash
-find -mindepth 1 -type d | wc -l
+directory_count = count_path_directories()
