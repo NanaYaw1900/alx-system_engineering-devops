@@ -1,2 +1,2 @@
 #!/bin/bash
-path = os.getenv('PATH')
+find -mindepth 1 -type d | wc -l
