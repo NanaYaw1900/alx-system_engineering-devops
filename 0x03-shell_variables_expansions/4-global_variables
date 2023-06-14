@@ -1,3 +1,2 @@
 #!/bin/bash
-printenv
-
+en_vars = os.environ
