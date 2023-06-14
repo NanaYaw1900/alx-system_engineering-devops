@@ -1,2 +1,2 @@
 #!/bin/bash
-directory_count = count_path_directories()
+echo $PATH | tr : '\n' | wc -l
